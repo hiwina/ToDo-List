@@ -24,7 +24,7 @@
 
 # 📖  To Do list structure  <a name="about-project"></a>
 
-> In this project the basic structure of To Do list app is built.
+> In this project function to add and remove list is added to To Do list app.
 
 ## 🛠 Built With <a name="built-with"></a>
 > HTML, Javascript and CSS
