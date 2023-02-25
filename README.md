@@ -1,4 +1,6 @@
-# ToDo-List
+
+# To-Do-list
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -21,10 +23,10 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-add-and-remove
-# 📖  To Do list add and remove  <a name="about-project"></a>
 
-> In this project function to add and remove lists to the To Do list app is added.
+# 📖  To Do list: Interactive list  <a name="about-project"></a>
+
+> In this project the interactive list of the To Do list app is built.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -81,3 +83,4 @@ If you like this project please give a star...
 This project is [MIT](./mit.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
