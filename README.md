@@ -21,10 +21,11 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
+add-and-remove
+# 📖  To Do list add and remove  <a name="about-project"></a>
 
-# 📖  To Do list structure  <a name="about-project"></a>
+> In this project function to add and remove lists to the To Do list app is added.
 
-> In this project the basic structure of To Do list app is built.
 
 ## 🛠 Built With <a name="built-with"></a>
 > HTML, Javascript and CSS
