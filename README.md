@@ -1,4 +1,6 @@
+
 # To-Do-list
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -25,6 +27,7 @@
 # 📖  To Do list: Interactive list  <a name="about-project"></a>
 
 > In this project the interactive list of the To Do list app is built.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 > HTML, Javascript and CSS
