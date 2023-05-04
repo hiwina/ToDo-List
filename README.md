@@ -1,4 +1,6 @@
-# ToDo-List
+
+# To-Do-list
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -22,9 +24,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  To Do list structure  <a name="about-project"></a>
+# 📖  To Do list: Interactive list  <a name="about-project"></a>
 
-> In this project function to add and remove list is added to To Do list app.
+> In this project the interactive list of the To Do list app is built.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 > HTML, Javascript and CSS
@@ -80,3 +83,4 @@ If you like this project please give a star...
 This project is [MIT](./mit.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
